@@ -1,4 +1,3 @@
-
 var n1 = parseFloat(prompt('Digite um número:'));
 
 if(n1 > 0 && n1 < 100 && n1 % 2 === 0){
